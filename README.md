@@ -135,6 +135,9 @@ For DECODER
 
 For DECODER
 
+![image](https://user-images.githubusercontent.com/123470785/214370167-e534e62c-ac4b-495e-80fe-f711b080f197.png)
+
+
 
 
 
@@ -142,3 +145,4 @@ For DECODER
 
 
 ### RESULTS 
+Thus the program for encoder and decoder using verilog code is verified
