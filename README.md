@@ -121,6 +121,8 @@ For DECODER
 
 For DECODER
 
+![image](https://user-images.githubusercontent.com/123470785/214369328-28440178-441f-4d21-8097-698d1bed7b9c.png)
+
 
 
 
