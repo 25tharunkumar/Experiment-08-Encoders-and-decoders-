@@ -113,7 +113,9 @@ For DECODER
 
 
 
-### TIMING DIGRAMS  For ENCODER ![image](https://user-images.githubusercontent.com/123470785/214368132-7ac7e609-92d7-4ac8-b13c-bd47fb9f2e4a.png)
+### TIMING DIGRAMS  For ENCODER
+
+![image](https://user-images.githubusercontent.com/123470785/214369106-15e4b0e8-659d-470a-ab0d-c4bea1e98a3e.png)
 
 
 
