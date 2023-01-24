@@ -128,7 +128,11 @@ For DECODER
 
 
 
-### TRUTH TABLE 
+### TRUTH TABLE For ENCODER
+
+
+For DECODER
+
 
 
 
