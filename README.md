@@ -113,7 +113,11 @@ For DECODER
 
 
 
-### TIMING DIGRAMS  
+### TIMING DIGRAMS  For ENCODER
+
+
+For DECODER
+
 
 
 
