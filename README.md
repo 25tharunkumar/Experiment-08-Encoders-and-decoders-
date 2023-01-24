@@ -113,7 +113,9 @@ For DECODER
 
 
 
-### TIMING DIGRAMS  For ENCODER
+### TIMING DIGRAMS  
+
+For ENCODER
 
 ![image](https://user-images.githubusercontent.com/123470785/214369106-15e4b0e8-659d-470a-ab0d-c4bea1e98a3e.png)
 
@@ -128,7 +130,9 @@ For DECODER
 
 
 
-### TRUTH TABLE For ENCODER
+### TRUTH TABLE
+
+For ENCODER
 
 ![image](https://user-images.githubusercontent.com/123470785/214369996-b95c15fa-a53b-41f3-8b31-d8c6b26201cd.png)
 
