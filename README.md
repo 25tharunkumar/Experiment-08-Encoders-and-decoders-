@@ -96,6 +96,11 @@ endmodule
 
 ### RTL LOGIC  
 
+For ENCODER
+
+
+For DECODER
+
 
 
 
