@@ -130,6 +130,8 @@ For DECODER
 
 ### TRUTH TABLE For ENCODER
 
+![image](https://user-images.githubusercontent.com/123470785/214369996-b95c15fa-a53b-41f3-8b31-d8c6b26201cd.png)
+
 
 For DECODER
 
