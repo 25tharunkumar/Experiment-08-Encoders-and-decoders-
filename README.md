@@ -98,6 +98,9 @@ endmodule
 
 For ENCODER
 
+![image](https://user-images.githubusercontent.com/123470785/214367388-59bca721-71bf-4fdb-a22f-bd85b6552b7e.png)
+
+
 
 For DECODER
 
