@@ -104,6 +104,8 @@ For ENCODER
 
 For DECODER
 
+![image](https://user-images.githubusercontent.com/123470785/214367618-3bc07c45-f7a6-41dc-804c-8b2de1228b5b.png)
+
 
 
 
